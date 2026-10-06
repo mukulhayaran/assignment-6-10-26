@@ -1,4 +1,4 @@
-# Lab 4 — structs, C strings and complex numbers
+#  Structs, C strings and complex numbers
 
 Three questions, one file each. Each one reads its input, works out the answer, and
 prints it. You need only what has been covered so far: structs, arrays, C-style
